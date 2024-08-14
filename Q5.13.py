@@ -1,4 +1,5 @@
 #Q5.13
+#Chào thầy Thành
 # Nhập kích thước của ma trận từ người dùng
 SoDong = int(input("Nhập số dòng của ma trận: "))
 SoCot = int(input("Nhập số cột của ma trận: "))
