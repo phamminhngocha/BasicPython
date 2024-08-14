@@ -1,4 +1,4 @@
-#Q1.11
+#Q1.11 
 
 Ds=[1,2,3,4,5,'Một','Hai','Ba','Bốn','Năm']
 print(Ds[0])  # a. Lấy 1 phần tử bên trái của danh sách Ds

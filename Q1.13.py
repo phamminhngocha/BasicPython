@@ -1,4 +1,4 @@
-#Q1.13
+#Q1.13 
 
 Ds1=['Lan','Nga','Mai','Anh','Ngọc']
 Tp1=('Mai','Lan','An','Lê','Liên','Tiến')
