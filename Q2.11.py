@@ -1,4 +1,4 @@
-#Q2.11
+#Q2.11 
 
 # Nhập số nguyên n (n >= 1)
 n = int(input("Nhập số nguyên n (n >= 1): "))

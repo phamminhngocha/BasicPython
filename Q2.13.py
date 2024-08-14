@@ -1,4 +1,4 @@
-#Q2.13
+#Q2.13 
 
 # Nhập số nguyên n từ người dùng
 n = int(input("Nhập số nguyên n: "))
