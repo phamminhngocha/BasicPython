@@ -1,4 +1,5 @@
 #Q2.47
+
 # Nhập số nguyên dương a
 a = int(input("Nhập vào một số nguyên dương: "))
 TongUoc = 1

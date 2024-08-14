@@ -1,4 +1,5 @@
 #Q2.01
+
 # Nhập giá trị số thực từ người dùng
 SoThuc = float(input("Nhập giá trị số thực n: "))
 # Thực hiện phép tính

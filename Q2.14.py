@@ -1,4 +1,5 @@
 #Q2.14
+
 # Danh sách Ds
 Ds = ['a', 'b', 'a', 'c', 'a', 'a', 'c', 'd']
 # Tạo danh sách Ds1 chứa các phần tử có xuất hiện trong Ds

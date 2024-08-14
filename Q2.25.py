@@ -1,4 +1,5 @@
 #Q2.25
+
 # Nhập điểm trung bình chung học tập từ người dùng
 DTBCHT = float(input("Nhập điểm trung bình chung học tập: "))
 

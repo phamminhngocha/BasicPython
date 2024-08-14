@@ -1,4 +1,5 @@
 #Q2.18
+
 # Nhập hai số nguyên từ người dùng
 a = int(input("Nhập số nguyên a: "))
 b = int(input("Nhập số nguyên b: "))

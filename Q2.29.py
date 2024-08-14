@@ -1,4 +1,5 @@
 #Q2.29
+
 x = int(input("Nhập một số nguyên dương x: "))  # Nhập số x từ bàn phím
 
 # In các số lẻ dương nhỏ hơn x

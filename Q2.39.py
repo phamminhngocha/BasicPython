@@ -1,4 +1,5 @@
 #Q2.39
+
 # Nhập giá trị k từ người dùng
 k = float(input("Nhập giá trị k: "))
 n = 1

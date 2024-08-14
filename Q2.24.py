@@ -1,4 +1,5 @@
 #Q2.24
+
 import math
 
 # Nhập lựa chọn của người dùng

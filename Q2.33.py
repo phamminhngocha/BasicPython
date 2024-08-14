@@ -1,4 +1,5 @@
 #Q2.33
+
 n = int(input("Nhập số nguyên dương n: "))  # Nhập số nguyên n từ bàn phím
 A = 0
 # Tính tổng A theo công thức

@@ -1,4 +1,5 @@
 #Q2.43
+
 # Nhập số nguyên dương từ người dùng
 a = int(input("Nhập vào số nguyên dương a: "))
 Dem = 0

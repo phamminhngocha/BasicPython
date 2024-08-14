@@ -1,4 +1,5 @@
 #Q2.30
+
 # Nhập giá trị a và b từ người dùng
 a = int(input("Nhập giá trị a: "))
 b = int(input("Nhập giá trị b: "))

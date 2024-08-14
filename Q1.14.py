@@ -1,4 +1,4 @@
-#Q1.14
+#Q1.14 
 
 SoChu={1:'Một',2:'Hai',3:'Ba',4:'Bốn',5:'Năm'}
 # a. Bổ sung 10: 'Mười' vào cuối từ điển SoChu

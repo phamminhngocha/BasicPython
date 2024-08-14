@@ -1,4 +1,4 @@
-#Q1.12
+#Q1.12 
 
 TenKhoa=('Khoa Hệ thống thông tin kinh tế')
 TpTenKhoa=tuple(TenKhoa.split(' '))# a. Chuyển chuỗi ký tự TenKhoa về tuple TpTenKhoa, sao cho mỗi từ là một phần tử của tuple.

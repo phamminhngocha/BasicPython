@@ -1,4 +1,5 @@
-#Q2.12 
+#Q2.12
+
 n=int(input('n='))
 Ds=range(1,n+1)
 Tong=sum(Ds[0::2])

@@ -1,4 +1,5 @@
 #Q2.09
+
 # Nhập a, b, c
 a = float(input("Nhập số thực a: "))
 b = float(input("Nhập số thực b: "))

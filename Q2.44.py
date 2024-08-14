@@ -1,4 +1,5 @@
 #Q2.44
+
 # Nhập hai số nguyên dương a và b
 a = int(input("Nhập số nguyên dương a: "))
 b = int(input("Nhập số nguyên dương b: "))

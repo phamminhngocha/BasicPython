@@ -1,4 +1,5 @@
 #Q2.62
+
 # Nhập số lượng phần tử
 n = int(input("Nhập số lượng phần tử: "))
 # Khởi tạo một tuple rỗng để lưu trữ các phần tử

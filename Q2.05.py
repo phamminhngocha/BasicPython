@@ -1,4 +1,5 @@
 #Q2.05
+
 # Nhập độ dài theo đơn vị km
 DoDaiKm = float(input("Nhập độ dài (kilomet): "))
 # Chuyển đổi độ dài từ đơn vị km sang đơn vị dặm

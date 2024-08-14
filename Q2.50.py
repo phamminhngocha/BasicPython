@@ -1,4 +1,5 @@
 #Q2.50
+
 # Khởi tạo một list rỗng để lưu trữ các số nguyên
 Numbers = []
 # Nhập số liên tục cho đến khi người dùng nhập -1

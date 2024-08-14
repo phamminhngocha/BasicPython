@@ -1,4 +1,5 @@
 #Q2.54
+
 # Nhập số nguyên dương n
 n = int(input("Nhập vào một số nguyên dương n: "))
 LaHaiMu = True

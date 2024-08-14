@@ -1,4 +1,5 @@
 #Q1.10
+
 Ckt='Học viện Tài chính'
 print(Ckt)
 print(Ckt[0]) # a. Lấy 1 ký tự bên trái của biến Ckt

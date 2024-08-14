@@ -1,4 +1,5 @@
 #Q2.57
+
 # Nhập số lượng phần tử cần nhập
 n = int(input("Nhập số lượng phần tử bạn muốn nhập: "))
 # Khởi tạo một tập hợp rỗng

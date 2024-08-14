@@ -1,4 +1,5 @@
 #Q2.38
+
 # Nhập giá trị n từ bàn phím
 n = int(input("Nhập số nguyên n (n>=1): "))  
 C = 0

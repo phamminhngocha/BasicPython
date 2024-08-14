@@ -1,4 +1,5 @@
 #Q2.59
+
 # Nhập số lượng cặp giá trị muốn tạo
 n = int(input("Nhập số lượng cặp giá trị (n): "))
 TuDien = {}

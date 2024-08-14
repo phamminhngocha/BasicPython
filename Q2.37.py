@@ -1,4 +1,5 @@
 #Q2.37
+
 # Nhập giá trị n từ người dùng
 n = int(input("Nhập vào số nguyên n (n >= 1): "))  
 C = 0

@@ -1,4 +1,5 @@
 #Q1.15
+
 # Kiểu dữ liệu tuple trong Python là một kiểu dữ liệu bất biến, có nghĩa là một khi đã tạo ra một tuple, ta không thể thay đổi các phần tử bên trong nó. Còn kiểu list, một kiểu dữ liệu có thể thay đổi được.
 # Các thao tác như thêm, xóa, thay đổi phần tử trong tuple đều không thực hiện được
 # Kiểu tuple nhằm bảo đảm an toàn cho dữ liệu, cũng như tăng hiệu suất khi truy xuất và so sánh

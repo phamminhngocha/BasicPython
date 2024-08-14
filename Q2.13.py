@@ -1,4 +1,5 @@
 #Q2.13
+
 # Nhập số nguyên n từ người dùng
 n = int(input("Nhập số nguyên n: "))
 # Tạo tuple Tp chứa các phần tử 1, 3, 5, 7, ..., 2n+1

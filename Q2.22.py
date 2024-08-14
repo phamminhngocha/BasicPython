@@ -1,4 +1,5 @@
 #Q2.22
+
 # Nhập vào ba số thực a, b, c từ bàn phím
 a = float(input("Nhập cạnh a: "))
 b = float(input("Nhập cạnh b: "))

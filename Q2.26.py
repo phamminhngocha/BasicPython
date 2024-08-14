@@ -1,4 +1,5 @@
 #Q2.26
+
 # Nhập hệ số a và b từ người dùng
 a = float(input("Nhập hệ số a: "))
 b = float(input("Nhập hệ số b: "))

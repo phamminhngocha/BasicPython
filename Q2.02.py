@@ -1,4 +1,5 @@
 #Q2.02
+
 # Nhập giá trị số nguyên từ người dùng
 SoNguyen = int(input("Nhập giá trị số nguyên n: "))
 # Thực hiện phép tính

@@ -1,4 +1,5 @@
 #Q2.49
+
 # Nhập giá trị cho a
 a = float(input("Nhập vào một số thực a: "))
 # Kiểm tra điều kiện và thực hiện các tác vụ tương ứng

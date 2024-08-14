@@ -1,4 +1,5 @@
-#Q1.17
+#Q1.17 
+
 Tuoi = 25  # Giả sử giá trị của biến Tuoi
 # a. Kiểm tra giá trị trong biến Tuoi có nằm trong đoạn [15,30] hay không?
 print(15 <= Tuoi <= 30)

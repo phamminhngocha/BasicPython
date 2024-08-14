@@ -1,4 +1,5 @@
 #Q2.28
+
 # Nhập tháng và năm
 Thang = int(input("Nhập tháng (1-12): "))
 Nam = int(input("Nhập năm: "))

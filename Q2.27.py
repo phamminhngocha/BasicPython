@@ -1,4 +1,5 @@
 #Q2.27
+
 import math  # Nhập thư viện math để sử dụng hàm căn bậc hai
 # Nhập các hệ số a, b, c từ người dùng
 a = float(input("Nhập hệ số a: "))

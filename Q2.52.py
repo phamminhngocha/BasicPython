@@ -1,4 +1,5 @@
 #Q2.52
+
 # Nhập số nguyên dương n từ bàn phím
 n = int(input("Nhập số nguyên dương n: "))  
 DemChan = 0  # Đếm số lượng chữ số chẵn, khởi tạo bằng 0

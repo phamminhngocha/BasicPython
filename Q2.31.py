@@ -1,4 +1,5 @@
 #Q2.31
+
 # Nhập số nguyên dương y
 y = int(input("Nhập số nguyên dương y (1<=y<=9): "))
 # Kiểm tra điều kiện của y

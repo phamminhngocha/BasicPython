@@ -1,4 +1,5 @@
 #Q2.58
+
 # Nhập số lượng phần tử cần nhập
 n = int(input("Nhập số lượng phần tử n: "))
 # Khởi tạo một list rỗng để lưu trữ các phần tử nhập vào

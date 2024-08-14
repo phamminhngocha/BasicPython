@@ -1,4 +1,5 @@
 #Q2.15
+
 # Nhập số nguyên từ người sử dụng và chuyển đổi thành kiểu số nguyên
 a = int(input("Nhập vào một số nguyên: "))
 

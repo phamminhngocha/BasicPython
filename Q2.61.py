@@ -1,4 +1,5 @@
 #Q2.61
+
 # Nhập số lượng phần tử của danh sách
 n = int(input("Nhập số lượng phần tử của danh sách: "))
 # Khởi tạo một danh sách rỗng để lưu trữ các phần tử

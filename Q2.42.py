@@ -1,4 +1,5 @@
 #Q2.42
+
 # Nhập số nguyên dương a từ bàn phím
 a = int(input("Nhập vào số nguyên dương a: "))  
 print("Các ước của", a, "là:")

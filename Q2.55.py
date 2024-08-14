@@ -1,4 +1,5 @@
 #Q2.55
+
 # Nhập số nguyên dương k
 k = int(input("Nhập số nguyên dương k: "))
 # Khởi tạo hai số Fibonacci đầu tiên

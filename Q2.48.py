@@ -1,4 +1,5 @@
 #Q2.48
+
 # Nhập số nguyên dương a từ bàn phím
 a = int(input("Nhập vào một số nguyên dương: "))
 # Khởi tạo biến flag để kiểm tra tính nguyên tố

@@ -1,4 +1,5 @@
 #Q2.35
+
 # Nhập số nguyên n
 n = int(input("Nhập số nguyên n (n>=1): "))  
 B = 0

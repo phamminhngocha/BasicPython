@@ -1,4 +1,5 @@
 #Q2.53
+
 # Nhập số nguyên dương n từ bàn phím
 n = int(input("Nhập số nguyên dương n: "))
 n1=n

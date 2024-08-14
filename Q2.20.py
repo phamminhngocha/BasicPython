@@ -1,4 +1,5 @@
 #Q2.20
+
 # Nhập số thực a từ người dùng
 a = float(input("Nhập vào một số thực a: "))
 

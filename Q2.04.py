@@ -1,4 +1,5 @@
 #Q2.04
+
 # Nhập nhiệt độ Fahrenheit từ người dùng
 nhiet_do_F = float(input("Nhập nhiệt độ Fahrenheit: "))
 # Tính nhiệt độ Celsius
