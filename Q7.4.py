@@ -80,7 +80,7 @@ def SapXepChen(DanhSachSo):
     DanhSachSo[ViTriChen + 1] = GiaTriHienTai
   return DanhSachSo
 
-def sap_xep_chon(DanhSachSo):
+def SapXepChon(DanhSachSo):
   """
   Hàm thực hiện sắp xếp một danh sách số theo thuật toán sắp xếp chọn.
   Args:
