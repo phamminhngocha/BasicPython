@@ -1,4 +1,4 @@
-#T2.2.2-Giải phương trình bậc 1: ax+b=0
+#T2.2.2-Giải phương trình bậc 1: ax+b=0 
 a=float(input('a='))
 b=float(input('b='))
 if a!=0:
