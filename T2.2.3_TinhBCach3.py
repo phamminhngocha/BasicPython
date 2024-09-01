@@ -1,4 +1,4 @@
-#T2.2.3(Cách 3)
+#T2.2.3(Cách 3):
 #Tính B=2+4+6+...+2n
 #Cách 3: Sử dụng while
 n=int(input('n='))

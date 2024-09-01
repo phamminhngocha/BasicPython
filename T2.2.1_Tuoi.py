@@ -1,4 +1,4 @@
-#Dựa vào tuổi, xác định Giai đoạn tương ứng của con người 
+#Dựa vào tuổi, xác định Giai đoạn tương ứng của con người.
 Tuoi=int(input('Nhập tuổi='))
 if Tuoi<=0:
     GiaiDoan="Không hợp lệ!"

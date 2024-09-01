@@ -1,4 +1,4 @@
-#T5.2.1: Hiển thị nội dung 1 cột dữ liệu trong BangLuong.csv
+#T5.2.1: Hiển thị nội dung 1 cột dữ liệu trong BangLuong.csv :
 import pandas as pd
 # Đọc dữ liệu từ file CSV vào bộ nhớ
 df = pd.read_csv("BangLuong.csv")

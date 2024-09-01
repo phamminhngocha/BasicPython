@@ -1,4 +1,4 @@
-#T4.2.1: Tập tin setings.ini
+#T4.2.1: Tập tin setings.ini :
 import configparser
 # Đọc file settings.ini
 config = configparser.ConfigParser()

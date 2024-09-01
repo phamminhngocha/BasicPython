@@ -1,4 +1,4 @@
-#T2.2.3(Cách 5-Có tính thời gian thực hiện chương trình)
+#T2.2.3(Cách 5-Có tính thời gian thực hiện chương trình):
 #Tính B=2+4+6+...+2n
 #Cách 5: Sử dụng for và hàm range()
 import time

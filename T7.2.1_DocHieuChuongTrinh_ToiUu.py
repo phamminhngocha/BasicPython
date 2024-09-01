@@ -1,4 +1,4 @@
-#T7.2.1: Tối ưu chương trình tìm số nguyên tố
+#T7.2.1: Tối ưu chương trình tìm số nguyên tố:
 # Hàm kiểm tra có là số nguyên tố không
 def LaSoNguyenTo(n):
     if n <= 1:

@@ -1,4 +1,4 @@
-#T6.1.1: Tính các chỉ số: Lợi nhuận ròng, Tỷ lệ lợi nhuận ròng, Tỷ lệ nợ, Tỷ lệ vốn chủ sở hữu
+#T6.1.1: Tính các chỉ số: Lợi nhuận ròng, Tỷ lệ lợi nhuận ròng, Tỷ lệ nợ, Tỷ lệ vốn chủ sở hữu:
 import pandas as pd
 from docx import Document
 from docx.shared import Inches

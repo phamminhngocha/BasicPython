@@ -1,4 +1,4 @@
-#T2.2.1
+#T2.2.1:
 Tuoi = int(input("Nhập tuổi của bạn: "))
 if 0 < tuoi < 6:
     print("Bạn là trẻ em.")

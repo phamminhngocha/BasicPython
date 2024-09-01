@@ -1,4 +1,4 @@
-#T7.2.1: Đọc hiểu chương trình
+#T7.2.1: Đọc hiểu chương trình :
 # Comment 1
 def KiemTra (n):
     if n <= 1:
