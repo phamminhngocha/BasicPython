@@ -1,6 +1,13 @@
 #Q2.75
 '''"Số lượng các phần tử không tăng nhiều nhất" là độ dài lớn nhất của một dãy con liên tiếp 
-mà mỗi phần tử sau nhỏ hơn hoặc bằng phần tử đứng trước nó.'''
+mà mỗi phần tử sau nhỏ hơn hoặc bằng phần tử đứng trước nó.
+Ví dụ:
+[10, 8, 8, 5, 7, 6, 4]
+Có các đoạn không tăng liên tiếp:
+10, 8, 8, 5    (4 phần tử)
+7, 6, 4        (3 phần tử)
+Kết quả từ chương trình là: 4.
+'''
 
 # Nhập số lượng phần tử của danh sách
 n = int(input("Nhập số lượng phần tử n = "))
